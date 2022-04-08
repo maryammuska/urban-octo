@@ -21,7 +21,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-
+Edits I made:
 
 Added comments throughout doc
 
@@ -45,7 +45,7 @@ Search Engine Optimization Section
 - changed <div id="social-media-marketing"> to <section id="social-media-marketing">
 - added "alt" to images 
 - changed  <div class="benefits"> to <section class="benefits">
-- changed <div class="footer"> to <section class="footer">
+- changed <div class="footer"> to <footer>
 
 <!--Changes I made on the CSS-->
 
@@ -62,13 +62,12 @@ Search Engine Optimization Section
 - changed .header nav { font-size } to 23px 
 - changed width of .content to 70% to mimic the mockup 
 - changed width of .benefits to 25% to mimic the mockup
+- changed .footer and .footer 2 to footer 
 
 <!--include screenshot of website along with link-->
 
 file:///Users/maryamhaidar/Desktop/UCB/Files/urban-octo/index.html
 
-
-<!--for images make sure to have alt -->
 
 
 
