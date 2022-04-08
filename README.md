@@ -66,6 +66,8 @@ Search Engine Optimization Section
 
 <!--include screenshot of website along with link-->
 
+<img src="./assets/images/Website.png" alt="screenshot of Horiseon website"/>
+
 file:///Users/maryamhaidar/Desktop/UCB/Files/urban-octo/index.html
 
 
